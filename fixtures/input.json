@@ -1,0 +1,1 @@
+{"stations":[{"id":"front-hold","arm_m":"2","max_weight_kg":"500"},{"id":"rear-hold","arm_m":"6","max_weight_kg":"600"}],"loads":[{"id":"pallet-a","station_id":"front-hold","weight_kg":"400"},{"id":"pallet-b","station_id":"rear-hold","weight_kg":"500"}],"envelope":[{"weight_kg":"800","forward_cg_m":"4","aft_cg_m":"4.8"},{"weight_kg":"1000","forward_cg_m":"4.1","aft_cg_m":"4.7"}]}
