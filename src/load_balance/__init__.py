@@ -1,2 +1,3 @@
 from .service import process
-__all__ = ["process"]
+from .dataset import TrajectoryDataset
+__all__ = ["process", "TrajectoryDataset"]
